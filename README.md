@@ -2,7 +2,7 @@
 Useful terminal game
 
 
-Rules: \n
+Rules:
 
-  Select diffucult from start \n
-  Press ctrl-c to terminate game or to see if you have won \n
+  1) Select diffucult from start
+  2) Press ctrl-c to terminate game or to see if you have won
