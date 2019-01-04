@@ -1,0 +1,2 @@
+# Sudoku
+Useful terminal game
