@@ -1,7 +1,6 @@
 
 import random
 import curses
-import argparse
 from curses import wrapper
 import time
 from threading import Thread 
@@ -467,15 +466,6 @@ def setdifficult (selection):
 
 
 def start ( stdscr ) :
-
-
-    parser = argparse.ArgumentParser ()
-
-    parser.add_argument ( "-d", dest = 'difficult', required = False, default = 1, type = int, help = 'Game difficult' )
-
-
-    args = parser.parse_args ()
-
 
     gui = Gui ()  # initialize GUI
 
